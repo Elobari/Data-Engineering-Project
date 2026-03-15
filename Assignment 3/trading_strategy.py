@@ -5,6 +5,8 @@ Metrics used:
 - Volume Imbalance Metric (VIMB)
 - Trade Dominance Ratio (TDR)
 - True Range Volatility Score (TRVS)
+
+Author: Jonah Knief - i6263747
 """
 
 import requests
