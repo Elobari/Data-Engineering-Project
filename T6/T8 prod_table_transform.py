@@ -99,7 +99,7 @@ def run_product_transformations():
         print("Applied complex historical product end-date logic.")
 
         # ---------------------------------------------------------
-        # NEW: SHOW RESULTS IN TERMINAL
+        # SHOW RESULTS IN TERMINAL
         # ---------------------------------------------------------
         print("\n" + "="*50)
         print("PREVIEW OF TRANSFORMED DATA (First 10 rows):")
